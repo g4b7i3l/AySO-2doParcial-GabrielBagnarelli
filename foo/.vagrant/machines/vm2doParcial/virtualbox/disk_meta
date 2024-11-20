@@ -1,0 +1,1 @@
+{"disk":[{"uuid":"35e0985d-c39a-4323-a3df-4fe121bab86f","port":"2","device":"0","name":"extra_storage","controller":"SCSI"},{"uuid":"dc7bbcc9-605e-45da-baee-ab63ad06d654","port":"3","device":"0","name":"extra_storage2","controller":"SCSI"}],"floppy":[],"dvd":[]}
